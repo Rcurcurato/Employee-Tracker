@@ -1,5 +1,9 @@
 {
-  "dependencies": {
-    "inquirer": "^8.2.4"
-  }
+"dependencies": {
+  "inquirer": "^8.2.4",
+  "sequelize": "^6.32.1",
+  "dotenv": "^16.0.3",
+  "mysql2": "^2.3.3"
 }
+}
+
